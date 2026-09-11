@@ -1,0 +1,6 @@
+{
+  "name": "Elevate Physiotherapy & Rehabilitation Clinic",
+  "description": "High-converting, SEO-optimized physiotherapy clinic website with Google Maps integration, WhatsApp booking, NAP consistency, and medical schema architecture.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
